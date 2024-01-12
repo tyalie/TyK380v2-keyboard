@@ -1,0 +1,4 @@
+[submodule "zmk-firmware"]
+	path = zmk-firmware
+	url = git@github.com:tyalie/zmk.git
+	branch = TyK380v2
